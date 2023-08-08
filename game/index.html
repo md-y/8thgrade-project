@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Wash Out Invasive Weeds!</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="board.css">
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.js"></script>
+        <script type="text/javascript" src="game.js"></script>
+    </head>
+    <body>
+        <header>
+            <img id="hPicture" height="100" src="assets/blank_weed.jpg" alt="No Selected Weed" class="hChild">
+            <div id="hInfo" class="hChild">
+                <a id="hArticle" target="_blank">
+                    <h3 id="hTitle">No Invasive Species Selected</h3>
+                </a>
+                <h4 id="hFact">Wash away an invasive species to learn about it!</h4>
+            </div>
+			<h1 id="hScore">0</h1>
+        </header>
+        <div class="center" id="playBanner">
+			<section id="playSpan">
+				<h1 id="score">Wash Away The Weeds!</h1>
+				<button onclick="beginPlay()">Start New Game</button>
+			</section>
+        </div>
+        <div id="imageHolder">
+        </div>
+        <canvas id="board">
+            <h1>Your browser does not support canvases. Please use another.</h1>
+        </canvas>
+    </body>
+</html>

@@ -1,0 +1,48 @@
+{
+    "rOlive": {
+        "source": "assets/russian_olive.png",
+        "name": "Russian Olive",
+        "facts": [
+            "The Russian olive's scientific name is Elaeagnus Angustifolia.",
+			"The Russian olive is in 38 out of 50 US states.",
+			"Russian olive trees reach their maximum height of 35 feet in less than 20 years.",
+			"Russian olives are producers.",
+			"Russian olives convert energy from the sun through a process called photosynthesis.",
+			"Birds eat the olives of the Russian olive tree.",
+			"The Russian olive threatens native plant life by taking over their land area."
+        ],
+        "article": "https://plants.usda.gov/core/profile?symbol=ELAN",
+        "picture": "https://c1.staticflickr.com/5/4100/4952276069_5e29f5c268_b.jpg"
+    },
+    "rKnapweed": {
+        "source": "assets/russian_knapweed.png",
+        "name": "Russian Knapweed",
+        "facts": [
+            "The Russian knapweed's scientific name is Rhaponticum Repens",
+			"Russian knapweeds are toxic to livestock causing them to not be eaten by animals.",
+			"The Russian knapweed are able to survive in different types of soil.",
+			"Russian knapweeds can grow to 35 inches.",
+			"The Russian knapweeds were introduced to the United States in the early 1900s.",
+			"Russian knapweeds are producers.",
+			"Russian knapweeds convert energy from the sun through a process called photosynthesis.",
+			"The presence of the Russian knapweed can reduce wildlife population."
+        ],
+        "article": "https://www.invasivespeciesinfo.gov/plants/russknapweed.shtml",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/4/49/Rhaponticum_repens_2.jpg"
+    },
+	"thistle": {
+		"source": "assets/thistle.png",
+        "name": "Thistle",
+        "facts": [
+            "The thistle's scientific name is Cirsium Mill.", 
+			"Thistles are part of the daisy family.",
+			"The thistle is in every US State.",
+			"Thistles are producers.",
+			"Thistles convert energy from the sun through a process called photosynthesis.",
+			"Thistles are only eaten by animals who can eat things with thorns like alpacas and horses.",
+			"When introduced to an area, the thistle can kill off many native plants."
+        ],
+        "article": "https://plants.usda.gov/core/profile?symbol=CIRSI",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Thistle_20050725_001.jpg"
+	}
+}
